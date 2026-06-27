@@ -57,13 +57,13 @@ The main goal is to connect my technical background with my interest in manageme
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Lucas-64/YOUR-PORTFOLIO-REPOSITORY.git
+git clone https://github.com/Lucas-64/portfolio.git
 ```
 
 ### 2. Access the project folder
 
 ```bash
-[cd YOUR-PORTFOLIO-REPOSITORY](https://github.com/Lucas-64/portfolio.git)
+cd https://github.com/Lucas-64/portfolio.git
 ```
 
 ### 3. Open the project
