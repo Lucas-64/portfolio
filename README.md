@@ -63,7 +63,7 @@ git clone https://github.com/Lucas-64/YOUR-PORTFOLIO-REPOSITORY.git
 ### 2. Access the project folder
 
 ```bash
-cd YOUR-PORTFOLIO-REPOSITORY
+[cd YOUR-PORTFOLIO-REPOSITORY](https://github.com/Lucas-64/portfolio.git)
 ```
 
 ### 3. Open the project
